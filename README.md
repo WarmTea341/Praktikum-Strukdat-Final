@@ -5,7 +5,7 @@
 
 Repositori ini memuat kode sumber lengkap (*Full Source Code*) yang digunakan sebagai bahan analisis dan benchmark dalam Laporan Praktikum Struktur Data.
 
-## 📂 Navigasi Kode per Bab
+##  Navigasi Kode per Bab
 
 ### PRAKTIKUM 1 : ARRAY
 * [Arrays.java](Arrays.java) - *Konsep Dasar Array Statis*
@@ -38,5 +38,5 @@ Repositori ini memuat kode sumber lengkap (*Full Source Code*) yang digunakan se
 * [10_Graphs.java](10_Graphs.java) - *DFS & BFS (Drone Route Finding)*
 
 ---
-### 🛠️ Utilities
+###  Utilities
 * [ExecutionTimer.java](ExecutionTimer.java) - *Class bantuan untuk benchmarking waktu (nanodetik)*
